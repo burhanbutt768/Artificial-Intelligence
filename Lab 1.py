@@ -2,6 +2,15 @@ print("Hello World")
 
 print("Python Expert")
 
+x = 5
+y = "John"
+z = 5.5
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+
 #comments in python
 
 #taking input
